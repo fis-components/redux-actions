@@ -1,0 +1,11 @@
+{
+    "repos": "https://github.com/acdlite/redux-actions.git",
+    "version": "0.8.0",
+    "tag": "master",
+    "name": "redux-actions",
+    "main": "lib/index.js",
+    "dependencies": {
+        "flux-standard-action": "^0.6.0",
+        "reduce-reducers": "^0.1.0"
+    }
+}
