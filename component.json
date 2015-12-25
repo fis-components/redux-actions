@@ -9,5 +9,5 @@
         "flux-standard-action": "^0.6.0",
         "reduce-reducers": "^0.1.0"
     },
-    "version": "0.5.0"
+    "version": "0.5.1"
 }
